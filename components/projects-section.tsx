@@ -8,6 +8,19 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 
 const projects = [
+
+  {
+    title: "Portfolio Website",
+    description: "Personal portfolio website showcasing projects, skills, and achievements.",
+    link: "https://personal-portfolio-gray-alpha-31.vercel.app/",
+    icon: <Code className="h-12 w-12 text-blue-400" />,
+  },
+  {
+    title: "E-commerce Website Harvest Hope",
+    description: "Harvest Hope  An AI-driven food security web app for connecting surplus food donors with communities in need, featuring crop and meal planners to reduce waste.",
+   link: "https://harvest-hope-web.vercel.app/",
+    icon: <Code className="h-12 w-12 text-purple-400" />,
+  },
   {
     title: "Simple Python Games",
     description:
@@ -27,6 +40,14 @@ const projects = [
     link: "https://github.com/i-am-ryan/Personal-finance-tracker-.git",
     icon: <Code className="h-12 w-12 text-green-400" />,
   },
+
+  {
+    title: "Slot Machine Game",
+    description: "A fully interactive terminal-based slot machine game built in Python",
+    link: "https://github.com/i-am-ryan/Slot-Machine.git",
+    icon: <Code className="h-12 w-12 text-blue-400" />,
+  },
+
 ]
 
 export default function ProjectsSection() {
