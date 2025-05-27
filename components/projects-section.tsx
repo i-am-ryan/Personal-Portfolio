@@ -15,6 +15,12 @@ const projects = [
     link: "https://personal-portfolio-gray-alpha-31.vercel.app/",
     icon: <Code className="h-12 w-12 text-blue-400" />,
   },
+   {
+    title: "My Photography Business",
+    description: "Personal Photography website Where you can book a session with me and my Team.",
+    link: "https://photography-business.vercel.app/",
+    icon: <Code className="h-12 w-12 text-purple-400" />,
+  },
   {
     title: "E-commerce Website Harvest Hope",
     description: "Harvest Hope  An AI-driven food security web app for connecting surplus food donors with communities in need, featuring crop and meal planners to reduce waste.",
