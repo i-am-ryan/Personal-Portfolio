@@ -24,7 +24,6 @@ export default function HeroSection() {
     const section = sectionRef.current
     if (section) {
       section.addEventListener("mousemove", handleMouseMove)
-
       return () => {
         section.removeEventListener("mousemove", handleMouseMove)
       }
@@ -62,11 +61,12 @@ export default function HeroSection() {
             <div className="bg-black/50 backdrop-blur-md px-4 py-2 rounded-full border border-blue-500/30">
               📧 Musiyariraryan96@gmail.com
             </div>
-           
           </div>
-          <div className="relative inline-block">
+
+          <div className="relative inline-block group">
             <Button
               size="lg"
+              variant="default"
               className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
               onClick={scrollToNext}
             >

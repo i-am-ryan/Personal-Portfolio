@@ -75,7 +75,7 @@ export default function ContactSection() {
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 mr-3 text-blue-400" />
                   <a href="tel:0835913418" className="text-blue-100 hover:text-blue-300 transition-colors">
-                    0835913418
+                    
                   </a>
                 </div>
 
