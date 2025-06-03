@@ -29,7 +29,7 @@ export default function CertificationsSection() {
           transition={{ duration: 1 }}
         >
           <h2 className="text-4xl font-bold mb-8 text-center glow-text bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
-            Certifications
+            Coursera Training
           </h2>
 
           <div className="bg-black/40 backdrop-blur-md p-6 md:p-8 rounded-2xl border border-blue-500/30 shadow-[0_0_15px_rgba(79,70,229,0.3)] mb-8">
