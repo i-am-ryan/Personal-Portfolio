@@ -22,7 +22,7 @@ export default function AboutSection() {
 
           <div className="bg-black/40 backdrop-blur-md p-6 md:p-8 rounded-2xl border border-blue-500/30 shadow-[0_0_15px_rgba(79,70,229,0.3)] hover:shadow-[0_0_30px_rgba(79,70,229,0.5)] transition-all duration-500">
             <p className="text-lg leading-relaxed text-blue-100">
-           Ambitious and solutions-driven final-year BCom Information Systems student at the University of Johannesburg, specializing in full-stack web development, cloud computing (AWS), and IT automation. Certified in Google IT Automation, AWS, and Python for Data Science. Proven experience building real-world digital solutions including an AI-powered food security platform. Strong collaborator and problem-solver, eager to contribute to innovation-focused teams within the banking or tech sector.
+           Final-year BCom Information Systems student at the University of Johannesburg with a strong foundation in full-stack web development, cloud computing (AWS), and IT automation. Recognized for analytical thinking and creative problem-solving, with hands-on experience in developing scalable digital solutions. I am eager to contribute technical expertise in dynamic IT environments.
             </p>
           </div>
         </motion.div>
