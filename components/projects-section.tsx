@@ -9,30 +9,39 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 
 const projects = [
 
-  {
-    title: "Portfolio Website",
-    description: "Personal portfolio website showcasing projects, skills, and achievements.",
-    link: "https://personal-portfolio-gray-alpha-31.vercel.app/",
-    icon: <Code className="h-12 w-12 text-blue-400" />,
+{
+    title: "Slot Machine Game",
+    description: "A fun and interactive casino-style game where players spin virtual reels to match symbols and win credits. With engaging animations, sound effects, and betting options, it offers an exciting and visually appealing way to test your luck!",
+    link: "https://slot-machine-web-app-qh7j.vercel.app/",
+ icon: <Code className="h-12 w-12 text-green-400" />,
   },
+{
+    title: "RM Bank",
+    description: "Experience modern banking with RM Bank. Manage your finances, transfer money, and track your spending",
+    link: "https://slot-machine-web-app-qh7j.vercel.app/",
+     icon: <Code className="h-12 w-12 text-blue-400" />,
+  },
+
    {
     title: "My Photography Business",
     description: "Personal Photography website Where you can book a session with me and my Team.",
     link: "https://photography-business.vercel.app/",
-    icon: <Code className="h-12 w-12 text-purple-400" />,
+     icon: <Code className="h-12 w-12 text-blue-400" />,
   },
+
+   {
+    title: "Personal Finance Tracker",
+    description: "Application to track personal finances, manage budgets, and visualize spending patterns.",
+    link: "https://github.com/i-am-ryan/Personal-finance-tracker-.git",
+    icon: <Code className="h-12 w-12 text-green-400" />,
+  },
+
   {
     title: "E-commerce Website Harvest Hope",
     description: "Harvest Hope  An AI-driven food security web app for connecting surplus food donors with communities in need, featuring crop and meal planners to reduce waste.",
    link: "https://harvest-hope-web.vercel.app/",
     icon: <Code className="h-12 w-12 text-purple-400" />,
   },
- { 
-  title: "NourishSA Platform",
-  description: "NourishSA is a basic food security web platform that allows surplus food donors to register and connect with communities in need. It currently includes a simple donation form, user login system, and homepage highlighting the mission.",
-  link: "https://nourishsa-platform.vercel.app/",
-  icon: <Code className="h-12 w-12 text-green-500" />,
-},
 
   {
     title: "Simple Python Games",
@@ -41,25 +50,7 @@ const projects = [
     link: "https://github.com/i-am-ryan/Python-projects.git",
     icon: <Code className="h-12 w-12 text-blue-400" />,
   },
-  {
-    title: "Python Automation Scripts",
-    description: "Scripts to automate IT tasks, improving efficiency and reducing manual work.",
-    link: "https://github.com/i-am-ryan/Python-Automation-Projects.git",
-    icon: <Code className="h-12 w-12 text-purple-400" />,
-  },
-  {
-    title: "Personal Finance Tracker",
-    description: "Application to track personal finances, manage budgets, and visualize spending patterns.",
-    link: "https://github.com/i-am-ryan/Personal-finance-tracker-.git",
-    icon: <Code className="h-12 w-12 text-green-400" />,
-  },
 
-  {
-    title: "Slot Machine Game",
-    description: "A fully interactive terminal-based slot machine game built in Python",
-    link: "https://github.com/i-am-ryan/Slot-Machine.git",
-    icon: <Code className="h-12 w-12 text-blue-400" />,
-  },
 
 ]
 
