@@ -27,6 +27,13 @@ const projects = [
    link: "https://harvest-hope-web.vercel.app/",
     icon: <Code className="h-12 w-12 text-purple-400" />,
   },
+ { 
+  title: "NourishSA Platform",
+  description: "NourishSA is a basic food security web platform that allows surplus food donors to register and connect with communities in need. It currently includes a simple donation form, user login system, and homepage highlighting the mission.",
+  link: "https://nourishsa-platform.vercel.app/",
+  icon: <Code className="h-12 w-12 text-green-500" />,
+},
+
   {
     title: "Simple Python Games",
     description:
