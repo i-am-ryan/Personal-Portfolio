@@ -15,12 +15,7 @@ const projects = [
     link: "https://slot-machine-web-app-qh7j.vercel.app/",
  icon: <Code className="h-12 w-12 text-green-400" />,
   },
-{
-    title: "RM Bank",
-    description: "Experience modern banking with RM Bank. Manage your finances, transfer money, and track your spending",
-    link: "https://rm-bank.vercel.app/",
-     icon: <Code className="h-12 w-12 text-blue-400" />,
-  },
+
 
    {
     title: "My Photography Business",
