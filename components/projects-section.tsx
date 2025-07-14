@@ -10,9 +10,9 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 const projects = [
 
 {
-    title: "Slot Machine Game",
-    description: "A fun and interactive casino-style game where players spin virtual reels to match symbols and win credits. With engaging animations, sound effects, and betting options, it offers an exciting and visually appealing way to test your luck!",
-    link: "https://slot-machine-web-app-qh7j.vercel.app/",
+     title: "GramSak Engineering Portal",
+    description: "A frontend corporate web platform to showcase GramSak's engineering services, projects, and expertise. Built for scalability and client engagement. (Note: Frontend only – backend integration planned for future phases.",
+    link: "https://gram-sak.vercel.app/",
  icon: <Code className="h-12 w-12 text-green-400" />,
   },
 
@@ -32,9 +32,9 @@ const projects = [
   },
 
   {
-    title: "E-commerce Website Harvest Hope",
-    description: "Harvest Hope  An AI-driven food security web app for connecting surplus food donors with communities in need, featuring crop and meal planners to reduce waste.",
-   link: "https://harvest-hope-web.vercel.app/",
+    title: "NourishSA: Food Security Platform",
+      description: "A frontend web application for food surplus redistribution, smart meal planning, and community support. Built to connect donors and underserved communities across South Africa. (Note: Frontend only – no backend integration yet.)",
+    link: "https://nourish-sa-1.vercel.app/",
     icon: <Code className="h-12 w-12 text-purple-400" />,
   },
 
